@@ -1,5 +1,8 @@
 ### Hi there 👋
-Jeff is a senior software engineer sepcializing in mobile app development
+### I am Jeff
+### Born in Jeddah Saudi Arabia
+### Lived in DC, FL and CA, currently in Los Angeles
+### Please reach out/connect/folllow me on [LinkedIn](https://www.linkedin.com/in/jeff-kelsey-9098b012) or [Twitter](https://www.twitter.com/jeffkelsey)
 
 <!--
 **jeffkelsey/jeffkelsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
