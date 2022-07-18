@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I am Jeff
-### Born in Jeddah Saudi Arabia
+### I am Jeff! I am a Sr. Software Engineer and sometimes manager
+### Born in Jeddah, Saudi Arabia
 ### Lived in DC, FL and CA, currently in Los Angeles
 ### Please reach out/connect/folllow me on [LinkedIn](https://www.linkedin.com/in/jeff-kelsey-9098b012) or [Twitter](https://www.twitter.com/jeffkelsey)
 
