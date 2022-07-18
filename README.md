@@ -1,5 +1,5 @@
 ### Hi there 👋
-##Jeff is a senior software engineer sepcializing in mobile app development
+Jeff is a senior software engineer sepcializing in mobile app development
 
 <!--
 **jeffkelsey/jeffkelsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
