@@ -11,6 +11,7 @@
   - Flutter
   - Node.js/typescript
   - Occulus Quest VR / Unity dev
+  - How to listen hear and validate (instead of always jumping into problem solving)
 
 ### Please reach out/connect/folllow me on [LinkedIn](https://www.linkedin.com/in/jeff-kelsey-9098b012) or [Twitter](https://www.twitter.com/jeffkelsey)
 
