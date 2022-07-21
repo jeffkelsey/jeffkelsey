@@ -1,7 +1,17 @@
 ### Hi there 👋
 ### I am Jeff! I am a Sr. Software Engineer and sometimes manager
 ### Born in Jeddah, Saudi Arabia
-### Lived in DC, FL and CA, currently in Los Angeles
+### Lived in MD, DC, FL and CA -- currently residing in Los Angeles (Ktown) 
+
+ 🔭 I’m currently working on
+ 
+ - [Wagr](https://wagr.us) - A new social sports betting app currently live in Tennessee!
+ 
+ 🌱 I’m currently learning:
+  - Flutter
+  - Node.js/typescript
+  - Occulus Quest VR / Unity dev
+
 ### Please reach out/connect/folllow me on [LinkedIn](https://www.linkedin.com/in/jeff-kelsey-9098b012) or [Twitter](https://www.twitter.com/jeffkelsey)
 
 <!--
